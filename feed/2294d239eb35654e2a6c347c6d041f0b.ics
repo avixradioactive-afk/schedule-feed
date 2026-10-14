@@ -5891,6 +5891,160 @@ DESCRIPTION:声乐课（美声唱法）
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:763598c7d58adaaafcf6f97a@schedule-calendar
+DTSTAMP:20261013T134057Z
+DTSTART:20261013T213000
+DTEND:20261013T214500
+SUMMARY:⏰ 待办提醒
+DESCRIPTION:已过期 7 条\n· 辩论稿\n· 法语物理单词复习\n· 
+ 调休\n· 下午有思政\n· 法语写作业\n· 法语复习国家\n· 
+ 买一个听写本\n\n今天还没做 6 条\n· 拿快递\n· 复习法语
+ \n· 买练习本\n· 航概刷题\n· 看眼声乐课要用的歌\n· 复
+ 习法语加减法
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:⏰ 待办提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:06bc0c974f2e795c5fb9cb35@schedule-calendar
+DTSTAMP:20261013T134057Z
+DTSTART:20261014T213000
+DTEND:20261014T214500
+SUMMARY:⏰ 待办提醒
+DESCRIPTION:已过期 13 条\n· 辩论稿\n· 法语物理单词复习\n·
+  调休\n· 下午有思政\n· 法语写作业\n· 法语复习国家\n·
+  买一个听写本\n· 拿快递\n· 复习法语\n· 买练习本\n· 
+ 航概刷题\n· 看眼声乐课要用的歌\n· 复习法语加减法
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:⏰ 待办提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7e6a59e9f25fbab094a52cde@schedule-calendar
+DTSTAMP:20261013T134057Z
+DTSTART:20261015T213000
+DTEND:20261015T214500
+SUMMARY:⏰ 待办提醒
+DESCRIPTION:已过期 13 条\n· 辩论稿\n· 法语物理单词复习\n·
+  调休\n· 下午有思政\n· 法语写作业\n· 法语复习国家\n·
+  买一个听写本\n· 拿快递\n· 复习法语\n· 买练习本\n· 
+ 航概刷题\n· 看眼声乐课要用的歌\n· 复习法语加减法
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:⏰ 待办提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cde30e6b1034c30ef2d8eb42@schedule-calendar
+DTSTAMP:20261013T134057Z
+DTSTART:20261016T213000
+DTEND:20261016T214500
+SUMMARY:⏰ 待办提醒
+DESCRIPTION:已过期 13 条\n· 辩论稿\n· 法语物理单词复习\n·
+  调休\n· 下午有思政\n· 法语写作业\n· 法语复习国家\n·
+  买一个听写本\n· 拿快递\n· 复习法语\n· 买练习本\n· 
+ 航概刷题\n· 看眼声乐课要用的歌\n· 复习法语加减法
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:⏰ 待办提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4b09c1ed9017e82006b084f0@schedule-calendar
+DTSTAMP:20261013T134057Z
+DTSTART:20261017T213000
+DTEND:20261017T214500
+SUMMARY:⏰ 待办提醒
+DESCRIPTION:已过期 13 条\n· 辩论稿\n· 法语物理单词复习\n·
+  调休\n· 下午有思政\n· 法语写作业\n· 法语复习国家\n·
+  买一个听写本\n· 拿快递\n· 复习法语\n· 买练习本\n· 
+ 航概刷题\n· 看眼声乐课要用的歌\n· 复习法语加减法
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:⏰ 待办提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:22610ebae51d9d376b64ea8c@schedule-calendar
+DTSTAMP:20261013T134057Z
+DTSTART:20261018T213000
+DTEND:20261018T214500
+SUMMARY:⏰ 待办提醒
+DESCRIPTION:已过期 13 条\n· 辩论稿\n· 法语物理单词复习\n·
+  调休\n· 下午有思政\n· 法语写作业\n· 法语复习国家\n·
+  买一个听写本\n· 拿快递\n· 复习法语\n· 买练习本\n· 
+ 航概刷题\n· 看眼声乐课要用的歌\n· 复习法语加减法
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:⏰ 待办提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dedee15ad82a2735866de03d@schedule-calendar
+DTSTAMP:20261013T134057Z
+DTSTART:20261019T213000
+DTEND:20261019T214500
+SUMMARY:⏰ 待办提醒
+DESCRIPTION:已过期 13 条\n· 辩论稿\n· 法语物理单词复习\n·
+  调休\n· 下午有思政\n· 法语写作业\n· 法语复习国家\n·
+  买一个听写本\n· 拿快递\n· 复习法语\n· 买练习本\n· 
+ 航概刷题\n· 看眼声乐课要用的歌\n· 复习法语加减法
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:⏰ 待办提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f64f90ecf4bd0ace36a5e237@schedule-calendar
+DTSTAMP:20261013T134057Z
+DTSTART:20261020T213000
+DTEND:20261020T214500
+SUMMARY:⏰ 待办提醒
+DESCRIPTION:已过期 13 条\n· 辩论稿\n· 法语物理单词复习\n·
+  调休\n· 下午有思政\n· 法语写作业\n· 法语复习国家\n·
+  买一个听写本\n· 拿快递\n· 复习法语\n· 买练习本\n· 
+ 航概刷题\n· 看眼声乐课要用的歌\n· 复习法语加减法
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:⏰ 待办提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d096a792acb773a90c184601@schedule-calendar
+DTSTAMP:20261013T134057Z
+DTSTART:20261021T213000
+DTEND:20261021T214500
+SUMMARY:⏰ 待办提醒
+DESCRIPTION:已过期 13 条\n· 辩论稿\n· 法语物理单词复习\n·
+  调休\n· 下午有思政\n· 法语写作业\n· 法语复习国家\n·
+  买一个听写本\n· 拿快递\n· 复习法语\n· 买练习本\n· 
+ 航概刷题\n· 看眼声乐课要用的歌\n· 复习法语加减法
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:⏰ 待办提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:memo-3427e2d7052cc314aca6afbe@schedule-calendar
 DTSTAMP:20261013T134057Z
 DTSTART;VALUE=DATE:20260922
